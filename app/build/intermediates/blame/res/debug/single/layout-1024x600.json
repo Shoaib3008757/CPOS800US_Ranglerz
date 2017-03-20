@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\main_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1024x600\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\tag_read_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1024x600\\tag_read_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\activity_uhf.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1024x600\\activity_uhf.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\tag_write_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1024x600\\tag_write_layout.xml"
+    }
+]

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ranglerz.activity.CustomPrinterActivity">
+
+
+
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Demo"
+            android:id="@+id/p_guard_auto_zone_tv"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:layout_below="@+id/p_guard_auto_zone_tv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:hint="Please Enter Name" />
+
+
+
+        <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/phone_number"
+        android:hint="Phone Number"
+        android:layout_below="@+id/name"
+        android:layout_alignLeft="@+id/name" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/presentMileage"
+        android:layout_below="@+id/phone_number"
+        android:layout_alignLeft="@+id/phone_number"
+        android:hint="Present Mileage" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/dueMileage"
+        android:layout_below="@+id/presentMileage"
+        android:layout_alignLeft="@+id/presentMileage"
+        android:hint="Due Mileage" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Select Product"
+            android:textStyle="bold"/>
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/product_list"
+            android:entries="@array/productsList">
+
+        </Spinner>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Items:"
+            android:textStyle="bold" />
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/itemNumber"
+            android:entries="@array/itemsNumbers"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description1"
+            android:hint="Enter Item1 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice1"
+            android:inputType="number"
+            android:hint="Enter Item1 Price"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description2"
+            android:hint="Enter Item2 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice2"
+            android:inputType="number"
+            android:hint="Enter Item2 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description3"
+            android:hint="Enter Item3 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice3"
+            android:inputType="number"
+            android:hint="Enter Item3 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description4"
+            android:hint="Enter Item4 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice4"
+            android:inputType="number"
+            android:hint="Enter Item4 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description5"
+            android:hint="Enter Item5 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice5"
+            android:inputType="number"
+            android:hint="Enter Item5 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description6"
+            android:hint="Enter Item6 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice6"
+            android:inputType="number"
+            android:hint="Enter Item6 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description7"
+            android:hint="Enter Item7 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice7"
+            android:inputType="number"
+            android:hint="Enter Item7 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description8"
+            android:hint="Enter Item8 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice8"
+            android:inputType="number"
+            android:hint="Enter Item8 Price"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description9"
+            android:hint="Enter Item9 Description"/>
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemPrice9"
+            android:inputType="number"
+            android:hint="Enter Item9 Price"/>
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Print"
+            android:id="@+id/print"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" />
+
+
+    </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+
+</RelativeLayout>

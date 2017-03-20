@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\magstripecard.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\magstripecard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\m1card_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\m1card_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prn_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\prn_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_read_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\tag_read_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iccard.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_iccard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_print.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_my_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_b_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\type_b_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_version.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_get_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rfid_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\rfid_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tagoper_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\tagoper_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\fingerprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\surface.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\barcode_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iccardbank.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\iccardbank.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\uhf_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soft_decoding.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_soft_decoding.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gsa.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\gsa.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dialog_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\menu_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uhf.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_uhf.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rfid_15693_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\rfid_15693_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dialog.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\menu_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_printer.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_printer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datalist.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\datalist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inputnumber_dialog_hk.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\inputnumber_dialog_hk.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gll.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\gll.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_printer.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_custom_printer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\location_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_card_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\read_card_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rmc.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\rmc.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cpu_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\cpu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iccardorder.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\iccardorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\satellite_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\satellite_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sfz.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\sfz.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdl_main.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\sdl_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_setting_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\barcode_setting_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vtg.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\vtg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gsv.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\gsv.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inputnumber_dialog.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\inputnumber_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gga.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\gga.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sfz_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\sfz_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_dialog.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\setting_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\simple_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cardselect.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\cardselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smartcard.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\smartcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taglist.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\taglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_write_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\tag_write_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iccardprog.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\iccardprog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_fingerprint.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\activity_enter_fingerprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yiqi.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\yiqi.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout\\control.xml"
+    }
+]

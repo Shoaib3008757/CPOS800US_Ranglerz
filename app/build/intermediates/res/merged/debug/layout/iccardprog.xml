@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:focusable="true" 
+       	android:focusableInTouchMode="true" 
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/ResetCard_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/resetICCard"
+            android:textSize="16sp"/>
+        
+        <Button
+            android:id="@+id/EraseFile_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deleteFile"
+            android:textSize="16sp"/>
+        
+         <Button android:id="@+id/MakeMF_ICCard" 
+             android:layout_width="140dp" 
+             android:layout_height="wrap_content" 
+             android:text="@string/newMasterDir" 
+             android:textSize="16sp"/>
+           
+        <Button
+            android:id="@+id/MakeDF_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/newSubDir"
+            android:textSize="16sp"
+            android:visibility="gone"/>
+        
+        <Button
+            android:id="@+id/MakeBinFile_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/newFolder"
+            android:textSize="16sp"/>
+        
+        <Button
+            android:id="@+id/SelectFile_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/selectedFile"
+            android:textSize="16sp"/>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="@string/writeFile" 
+                android:visibility="gone"/>
+
+            <EditText
+                android:id="@+id/WriteData_ICCard"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:digits="0123456789"
+                android:hint="@string/pleaseWriteData" 
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/WriteFile_ICCard"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:text="@string/writeFile" 
+                android:textSize="16sp"
+                android:visibility="gone"/>
+        </LinearLayout>
+        
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="@string/writeFile" 
+                android:visibility="gone"/>
+
+            <EditText
+                android:id="@+id/UpdateData_ICCard"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:hint="@string/pleaseWriteData" />
+
+            <Button
+	            android:id="@+id/UpdateFile_ICCard"
+	            android:layout_width="140dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/writeFile"
+	            android:textSize="16sp"/>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <!--android:background="@color/white"-->
+            <EditText
+                android:id="@+id/ReadData_ICCard"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:hint="@string/readData"
+                android:textSize="18sp" 
+                android:focusable="false"/>
+            
+            <Button
+	            android:id="@+id/ReadFile_ICCard"
+	            android:layout_width="140dp"
+	            android:layout_height="wrap_content"
+	            android:text="@string/readFile"
+	            android:textSize="16sp"/>
+        </LinearLayout>
+        
+         <Button
+            android:id="@+id/Clear_ICCard"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/button_clean"
+            android:textSize="16sp" />
+         <LinearLayout 
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal">
+             <Button 
+                 android:id="@+id/bt_continu"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/continuReset"/>
+             <TextView 
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/success"/>
+             <TextView 
+                 android:id="@+id/tv_success"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="0"/>
+             <TextView 
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/fails"/>
+			<TextView 
+			    android:id="@+id/tv_faile"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="0"/>
+             </LinearLayout>
+         
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ranglerz.activity"
+    android:versionCode="2"
+    android:versionName="V1.2">
+
+    <uses-sdk android:minSdkVersion="11" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- 解锁屏幕 -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true" />
+
+
+
+    <receiver
+        android:enabled="true"
+        android:exported="true"
+        android:name="com.ranglerz.activity.StartOnBoot"
+        android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+
+        <intent-filter>
+            <action android:name="android.intent.action.BOOT_COMPLETED" />
+            <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+
+    </receiver>
+
+
+    <application
+        android:name=".MyApplication"
+        android:label="@string/app_name"
+        android:icon="@drawable/guard_demo_ic">
+
+        <!--
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
+
+        <activity
+            android:name=".UHFActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PrinterActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".FingerprintActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ICCardActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CPUActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".BarCodeActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label=" "
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name=".CardSelectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IcCardProgActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IcCardBankActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IcCardOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MagStripeCardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mytest"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GetVersionActivity"
+            android:label="@string/title_activity_get_version"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MyPrintActivity"
+            android:screenOrientation="portrait"
+            android:label=" ">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CustomPrinterActivity"
+            android:screenOrientation="portrait"
+            android:label=" " />
+        <activity
+            android:name=".EnterFingerprintActivity"
+            android:screenOrientation="portrait"
+            android:label=" "></activity>
+    </application>
+
+</manifest>

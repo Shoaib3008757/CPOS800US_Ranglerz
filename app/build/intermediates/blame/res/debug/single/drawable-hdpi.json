@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_toggle_no.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\drawable-hdpi\\btn_toggle_no.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_toggle_yes.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\drawable-hdpi\\btn_toggle_yes.png"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_background.png",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\drawable-hdpi\\main_background.png"
+    }
+]

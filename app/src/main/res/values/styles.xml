@@ -1,0 +1,32 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+    -->
+
+    <style name="AppBaseTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="MyDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <color name="left_column_bk">#6B9A00</color>
+    <color name="right_column_bk">#9CCF00</color>
+    <color name="toggleButton_bk">#FFFFFF</color>
+    <color name="txt_show_color">#ffffff</color>
+    <color name="padding_line_color">#FFFFFF</color>
+    <color name="txt_warnning_color">#FF0000</color>
+
+</resources>

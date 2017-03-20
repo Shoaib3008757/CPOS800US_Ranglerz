@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\raw\\barcode.mp3",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\raw\\barcode.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\raw\\example.bmp",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\raw\\example.bmp"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\raw\\guard_demo_image.bmp",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\raw\\guard_demo_image.bmp"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.wav",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\raw\\ok.wav"
+    }
+]

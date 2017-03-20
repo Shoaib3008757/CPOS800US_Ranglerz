@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1280x720\\tag_read_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1280x720\\tag_read_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1280x720\\tag_write_layout.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1280x720\\tag_write_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1280x720\\activity_uhf.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1280x720\\activity_uhf.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1280x720\\datalist.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1280x720\\datalist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\build\\intermediates\\res\\merged\\debug\\layout-1280x720\\main_activity.xml",
+        "source": "C:\\Users\\User-10\\AndroidStudioProjects\\CPOS800US_Ranglerz\\app\\src\\main\\res\\layout-1280x720\\main_activity.xml"
+    }
+]
